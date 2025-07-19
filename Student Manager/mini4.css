@@ -1,0 +1,47 @@
+.W{
+    justify-content: center;
+    text-align: center;
+}
+.Box{
+    
+    display: flex;
+    flex-direction: column;
+    width: 250pt;
+    justify-content: center;
+    margin-left: 480px;
+    font-weight: bold;
+}
+    
+    
+
+#i1{
+    margin: 4%;
+     font-weight: bold;
+}
+
+#i2{
+    margin: 4%;
+     font-weight: bold;
+}
+
+#i3{
+    margin: 4%;
+     font-weight: bold;
+}
+
+.Button{
+    margin: 1% ;
+    background-color: rgb(45, 191, 220);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: medium;
+    
+   
+}
+.studentList{
+    margin: 4%;
+    text-align: center;
+}
