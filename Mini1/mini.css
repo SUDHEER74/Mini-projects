@@ -1,0 +1,56 @@
+.W{
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: space-between;
+    font-style: italic;
+    margin:auto
+
+
+}
+.M{
+    background-color:rgb(212, 241, 243);
+    border: solid 2px rgb(17, 59, 176);
+    
+}
+    
+.A{
+    margin:3%;
+    
+  text-align: center;
+  background-color: rgb(143, 199, 212);
+   border: solid 2px rgb(17, 59, 176);
+  
+  
+
+  
+
+ 
+}
+.A img{
+    margin-top: 5px;
+}
+.B{
+      margin: 3%;
+    text-align: center;
+   background-color: rgb(100, 194, 197);
+    border: solid 2px rgb(17, 59, 176);
+  
+    
+   
+}
+.B img{
+    margin-top: 5px;
+}
+.C{
+    
+     margin: 3%;
+    text-align: center;
+ background-color: rgb(129, 112, 176);
+ border: solid 2px rgb(17, 59, 176);
+    
+    
+}
+.C img{
+    margin-top: 5px;
+}
