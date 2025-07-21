@@ -1,0 +1,90 @@
+.A{
+    text-align: center;
+
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100px;
+    margin-top: 4%;
+     margin-left: 20%;
+    border-radius: 50px;
+    
+
+
+}
+
+.b1{
+    margin: 5%;
+    border-radius: 50px;
+     cursor: pointer;
+
+  
+}
+.b2{
+    margin: 5%;
+    border-radius: 50px;
+     cursor: pointer;
+
+}
+.b3{
+    margin: 5%;
+    border-radius: 50px;
+     cursor: pointer;
+
+}
+.w{
+    display: flex;
+}
+.box{
+    
+   
+    background-color: black;
+    width: 52px;
+    height: 220px;
+    border-radius:56px ;
+    margin: 4%;
+
+    
+    
+}
+.c1{
+    background-color: rgb(142, 137, 137);
+    height: 40px;
+    width: 40px;
+    border-radius: 400px;
+    margin-top: 50%;
+    margin-left: 12%;
+    cursor: pointer;
+}
+.c2{
+    background-color: rgb(142, 137, 137);
+    height: 40px;
+    width: 40px;
+    border-radius: 400px;
+    margin-top: 50%;
+    margin-left: 12%;
+     cursor: pointer;
+}
+
+.c3{
+    background-color:rgb(142, 137, 137);
+    height: 40px;
+    width: 40px;
+    border-radius: 400px;
+    margin-top: 50%;
+    margin-left: 12%;
+     cursor: pointer;
+
+}
+.b1:hover{
+    background-color: red;
+}
+.b2:hover{
+    background-color: yellow;
+}
+.b3:hover{
+    background-color: green;
+}
+
